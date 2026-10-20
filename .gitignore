@@ -1,0 +1,24 @@
+# Build results / Visual Studio
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+
+# Pack artifacts
+nupkg/
+
+# Rider / VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+*.cache
+*.log
